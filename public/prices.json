@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "type": "Basic Membership",
+        "price": 50.00,
+        "features": [
+            "Gym equipment",
+            "Group classes",
+            "Locker rental",
+            "Personal training discount"
+        ],
+        "duration": "1 month",
+        "availability": "All locations"
+    },
+    {
+        "id": 2,
+        "type": "Premium Membership",
+        "price": 100.00,
+        "features": [
+            "Gym equipment",
+            "Group classes",
+            "Personal training",
+            "Locker rental"
+        ],
+        "duration": "3 months",
+        "availability": "Select locations"
+    },
+    {
+        "id": 3,
+        "type": "Executive Membership",
+        "price": 150.00,
+        "features": [
+            "Gym equipment",
+            "Group classes",
+            "Personal training",
+            "Locker rental",
+            "Executive lounge access"
+        ],
+        "duration": "6 months",
+        "availability": "Select locations"
+    }
+]
